@@ -1,1 +1,1 @@
-Contains system engineering devops assignments
+Shell basics
